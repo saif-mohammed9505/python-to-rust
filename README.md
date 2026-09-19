@@ -328,9 +328,23 @@ These files should be excluded using `.gitignore`.
 - Improve error handling
 - Add cross-platform Rust toolchain support
 
-## Author
+## 📌 Repository
+
+GitHub Repository:
+
+https://github.com/saif-mohammed9505/python-to-rust
+
+---
+
+## 👨‍💻 Author
 
 **Saif Mohammed**
+
+GitHub:
+
+https://github.com/saif-mohammed9505
+
+---
 
 ## License
 
